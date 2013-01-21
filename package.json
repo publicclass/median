@@ -1,0 +1,20 @@
+{
+  "name": "median",
+  "version": "0.0.1",
+  "description": "median utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/publicclass/median.git"
+  },
+  "keywords": [
+    "median"
+  ],
+  "author": "Robert Sköld <robert@publicclass.se>",
+  "license": "MIT",
+  "readmeFilename": "Readme.md",
+  "gitHead": "3278a8387289887411bd650298e82c099a2490c1"
+}
